@@ -1,4 +1,4 @@
-# Node.js Express Starter Project
+# User Authentication API with Node.js
 
 This is a User authentication API built using Node.js and Express with database connectivity using `pg` and essential middleware like `body-parser`. It also includes `nodemon` for easier development.
 
